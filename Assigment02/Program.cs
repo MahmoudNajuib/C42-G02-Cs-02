@@ -1,4 +1,4 @@
-﻿namespace Assigment02
+﻿namespace Assigment03
 {
     internal class Program
     {
